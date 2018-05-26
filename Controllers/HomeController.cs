@@ -4,15 +4,22 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
-using webapp2.Models;
+using asd.Models;
 
-namespace webapp2.Controllers
+namespace asd.Controllers
 {
     public class HomeController : Controller
     {
+		[HttpGet]
         public IActionResult Index()
         {
             return View();
+        }
+		[HttpPost]
+		public IActionResult Index(string FirstName)
+        {
+			Console.WriteLine("SHIT HAPPENED");
+			return Content($"Hello {FirstName}");
         }
 
         public IActionResult About()

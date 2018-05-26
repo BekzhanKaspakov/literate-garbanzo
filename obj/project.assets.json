@@ -12539,11 +12539,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/bekzhankaspakov/Projects/webapp2/WebApp2/WebApp2.csproj",
-      "projectName": "WebApp2",
-      "projectPath": "/Users/bekzhankaspakov/Projects/webapp2/WebApp2/WebApp2.csproj",
+      "projectUniqueName": "/Users/bekzhankaspakov/Projects/asd/asd/asd.csproj",
+      "projectName": "asd",
+      "projectPath": "/Users/bekzhankaspakov/Projects/asd/asd/asd.csproj",
       "packagesPath": "/Users/bekzhankaspakov/.nuget/packages/",
-      "outputPath": "/Users/bekzhankaspakov/Projects/webapp2/WebApp2/obj",
+      "outputPath": "/Users/bekzhankaspakov/Projects/asd/asd/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

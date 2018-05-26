@@ -21,16 +21,16 @@
   },
   "targets": {
     ".NETCoreApp,Version=v2.0": {
-      "WebApp2/1.0.0": {
+      "asd/1.0.0": {
         "dependencies": {
           "Microsoft.AspNetCore.All": "2.0.0",
           "Microsoft.NETCore.App": "2.0.0"
         },
         "runtime": {
-          "WebApp2.dll": {}
+          "asd.dll": {}
         },
         "compile": {
-          "WebApp2.dll": {}
+          "asd.dll": {}
         }
       },
       "Libuv/1.10.0": {
@@ -3973,7 +3973,7 @@
     }
   },
   "libraries": {
-    "WebApp2/1.0.0": {
+    "asd/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

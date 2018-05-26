@@ -1,0 +1,11 @@
+/Users/bekzhankaspakov/Projects/asd/asd/bin/Debug/netcoreapp2.0/asd.deps.json
+/Users/bekzhankaspakov/Projects/asd/asd/bin/Debug/netcoreapp2.0/asd.runtimeconfig.json
+/Users/bekzhankaspakov/Projects/asd/asd/bin/Debug/netcoreapp2.0/asd.runtimeconfig.dev.json
+/Users/bekzhankaspakov/Projects/asd/asd/bin/Debug/netcoreapp2.0/asd.dll
+/Users/bekzhankaspakov/Projects/asd/asd/bin/Debug/netcoreapp2.0/asd.pdb
+/Users/bekzhankaspakov/Projects/asd/asd/obj/Debug/netcoreapp2.0/asd.csprojResolveAssemblyReference.cache
+/Users/bekzhankaspakov/Projects/asd/asd/obj/Debug/netcoreapp2.0/asd.csproj.CoreCompileInputs.cache
+/Users/bekzhankaspakov/Projects/asd/asd/obj/Debug/netcoreapp2.0/asd.AssemblyInfoInputs.cache
+/Users/bekzhankaspakov/Projects/asd/asd/obj/Debug/netcoreapp2.0/asd.AssemblyInfo.cs
+/Users/bekzhankaspakov/Projects/asd/asd/obj/Debug/netcoreapp2.0/asd.dll
+/Users/bekzhankaspakov/Projects/asd/asd/obj/Debug/netcoreapp2.0/asd.pdb
